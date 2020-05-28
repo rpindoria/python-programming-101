@@ -1,0 +1,10 @@
+#calculate area of the square
+side1=input("side 1 of the triangle in cm ")
+side2=input("side 2 of the triangle in cm ")
+areaOfSquare= int(side1) * int (side2)
+print("Area of the square = ", areaOfSquare, "cm square")
+
+Results:
+side 1 of the triangle in cm 2
+side 2 of the triangle in cm 3
+Area of the square =  6 cm square
